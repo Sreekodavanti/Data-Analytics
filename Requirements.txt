@@ -1,1 +1,9 @@
+## Pip install 
+Plotly
 
+## Imports
+Seaborn
+Numpy
+Matplotlib
+Plottree(Optional)
+Label encoders
